@@ -12,7 +12,7 @@ const foodies = data.map((foodie) => {
 
 <template>
   <div class="flex flex-col items-center justify-center p-10 w-full">
-    <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 lg:gap-4 w-full">
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 lg:gap-4 w-full">
     <div v-for="foodie in foodies" :key="foodie.id">
       <FoodieItem :foodie="foodie" />
     </div>
