@@ -232,5 +232,56 @@
       "Repetimos darle la vuelta a la tortilla las veces que sea necesario hasta que esté bien cuajada.",
       "Servimos y disfrutamos"
     ]
+  },
+  {
+    "id": 11,
+    "title": "Paella Valenciana Tradicional",
+    "image": "images/paella-tradicional.jpg",
+    "timeToPrepare": "60",
+    "difficulty": 8,
+    "ingredients": [
+      "Cebolla",
+      "Aceite",
+      "Sal",
+      "Garrafó",
+      "Habichuelas verdes",
+      "Pollo",
+      "Caldo de pollo",
+      "Arroz",
+      "Azafrán"
+    ],
+    "instructions": [
+      "En la paella, añadimos aceite y una vez esté caliente la cebolla bien picada",
+      "Una vez la cebolla esté dorada añadimos las habichuelas verdes y garrafó",
+      "Añadimos el pollo troceado y a los 5 min añadimos el arroz junto con el caldo de pollo y azafrán",
+      "Dejamos cocinar a fuego medio durante 18 min",
+      "Servimos y disfrutamos"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ensalada de pasta",
+    "image": "images/ensalada-pasta.jpg",
+    "timeToPrepare": "30",
+    "difficulty": 8,
+    "ingredients": [
+      "Pasta",
+      "Tomates",
+      "Atun",
+      "Aceitunas negras",
+      "Queso",
+      "Maiz",
+      "Aceite",
+      "Sal",
+      "Rúcula"
+    ],
+    "instructions": [
+      "Cogemos un cazo lleno de agua y lo ponemos a hervir",
+      "Añadimos la pasta y la dejamos cocinar durante 10 min",
+      "Mientras en un cuenco añadimos los tomates troceados, atun, aceitunas negras, queso y maiz",
+      "Una vez la pasta esté lista, la escurrimos bajo el grifo para enfriarla y la añadimos al cuenco",
+      "Añadimos aceite, sal y la rúcula y mezclamos bien",
+      "Servimos y disfrutamos"
+    ]
   }
 ]

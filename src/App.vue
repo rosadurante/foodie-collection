@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import FoodieList from '@/components/FoodieList.vue'
+import FoodieDialog from '@/components/FoodieDialog.vue'
 </script>
 
 <template>
@@ -13,5 +14,8 @@ import FoodieList from '@/components/FoodieList.vue'
     <FoodieList />
   </main>
   </div>
+
+  <FoodieDialog />
+
 </template>
 
