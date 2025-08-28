@@ -25,7 +25,7 @@ console.log(isOpen.value)
       leave-to-class="opacity-0"
     >
   <div v-if="isOpen" class="fixed inset-0 bg-black/50 bg-opacity-50 flex items-center justify-center z-50 " @click.self="handleClose">
-    <div class="bg-white rounded-lg w-[50%] h-[50%] shadow-lg overflow-y-auto">
+    <div class="bg-white rounded-lg w-[75%] h-[75%] md:w-[50%] md:h-[50%] shadow-lg overflow-y-auto">
       <FoodieDetails :foodie="foodStore.selectedFood" :onClose="handleClose" />
     </div>
   </div>

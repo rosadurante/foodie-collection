@@ -24,7 +24,7 @@ const src = computed(() => {
 </script>
 
 <template>
-  <section class=" md:flex md:flex-row h-full w-full">
+  <section class=" md:flex md:flex-row h-full w-full text-black">
     <div class="w-full h-24 md:w-96 md:h-full bg-center bg-cover bg-no-repeat" :style="{ backgroundImage: `url(${src})` }"></div>
     <div class="p-4 overflow-y-auto">
     <header class="flex justify-between items-center p-4">
